@@ -1,2 +1,3 @@
 # hello-world
-Following Github guide
+Hello There!
+I am here, to learn GitHub and see how I can use it for my projects.
